@@ -1,0 +1,12 @@
+c:\users\m85\work\testsolutions\git\coreapi\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+c:\users\m85\work\testsolutions\git\coreapi\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+c:\users\m85\work\testsolutions\git\coreapi\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+c:\users\m85\work\testsolutions\git\coreapi\Interface\bin\Debug\netcoreapp3.1\Entities.dll
+c:\users\m85\work\testsolutions\git\coreapi\Interface\bin\Debug\netcoreapp3.1\Entities.pdb
+c:\users\m85\work\testsolutions\git\coreapi\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+c:\users\m85\work\testsolutions\git\coreapi\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+c:\users\m85\work\testsolutions\git\coreapi\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+c:\users\m85\work\testsolutions\git\coreapi\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+c:\users\m85\work\testsolutions\git\coreapi\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CopyComplete
+c:\users\m85\work\testsolutions\git\coreapi\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+c:\users\m85\work\testsolutions\git\coreapi\Interface\obj\Debug\netcoreapp3.1\Interface.pdb

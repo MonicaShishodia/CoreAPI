@@ -1,0 +1,12 @@
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\Users\m85\Work\TestSolutions\Git\CoreAPI\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb
+c:\users\m85\work\testsolutions\git\coreapi\DataAccess\bin\Debug\netstandard2.1\Entities.dll
+c:\users\m85\work\testsolutions\git\coreapi\DataAccess\bin\Debug\netstandard2.1\Entities.pdb
+c:\users\m85\work\testsolutions\git\coreapi\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
