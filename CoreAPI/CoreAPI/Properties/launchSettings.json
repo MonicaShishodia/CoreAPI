@@ -1,0 +1,44 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:63981",
+      "sslPort": 44322
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "Ping",
+      "environmentVariables": {
+        "DB_Conn": "Server=(localdb)\\ProjectsV13;Database=CoreAPI;Trusted_Connection=True;",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "CoreAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "Ping",
+      "environmentVariables": {
+        "envDB": "CoreAPI_DB",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/Ping",
+      "environmentVariables": {
+        "Key": "Value",
+        "DB_Conn": "Server=(localdb)\\\\ProjectsV13;Database=CoreAPI;Trusted_Connection=True;",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  }
+}
